@@ -1,0 +1,6 @@
+
+# .gitignore file helps to prevent or hide some details and reduce the bulkyness of the application to use less resources available to you.
+
+
+node_modules
+.env
